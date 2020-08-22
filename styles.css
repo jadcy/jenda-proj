@@ -26,7 +26,8 @@
 
 #about {
   color: white;
-  text-align: center;
+  text-align: justify;
+  padding-right: 2em;
 }
 
 #link {
