@@ -77,6 +77,12 @@ body {
     padding-bottom: 1em;
   }
 
+  #about {
+    color: white;
+    text-align: justify;
+    padding-right: 0;
+  }
+
   .container {
     display: flex;
     flex-direction: column;
